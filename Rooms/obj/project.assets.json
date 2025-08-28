@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mechi\\Desktop\\Evelyn_Karina_Habitaciones\\Rooms\\Rooms.csproj",
+      "projectUniqueName": "C:\\Users\\mechi\\Desktop\\Evelyn_Hoyos_Habitaciones\\Rooms\\Rooms.csproj",
       "projectName": "Rooms",
-      "projectPath": "C:\\Users\\mechi\\Desktop\\Evelyn_Karina_Habitaciones\\Rooms\\Rooms.csproj",
+      "projectPath": "C:\\Users\\mechi\\Desktop\\Evelyn_Hoyos_Habitaciones\\Rooms\\Rooms.csproj",
       "packagesPath": "C:\\Users\\mechi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mechi\\Desktop\\Evelyn_Karina_Habitaciones\\Rooms\\obj\\",
+      "outputPath": "C:\\Users\\mechi\\Desktop\\Evelyn_Hoyos_Habitaciones\\Rooms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
